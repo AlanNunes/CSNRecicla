@@ -6,13 +6,13 @@ Através deste desafio criamos uma plataforma Web onde qualquer pessoa pode entr
 
 # Nosso Pitch
 
-![alt text](https://i.imgur.com/CzeRVVs.jpg "CSN Recicla Apresentação")
-
-![alt text](https://i.imgur.com/L7mnQsN.jpg "Sobre o problema")
-![alt text](https://i.imgur.com/ODJhe0A.jpg "Solução")
-![alt text](https://i.imgur.com/vOunRhE.jpg "CSN Recicla Apresentação")
-![alt text](https://i.imgur.com/dtWjy0z.jpg "CSN Recicla Apresentação")
-![alt text](https://i.imgur.com/qwtSjze.jpg "Modelo de Negócio")
-![alt text](https://i.imgur.com/oC2bVVm.jpg "Diferencial")
-![alt text](https://i.imgur.com/0n88yzm.jpg "Escalabilidade")
-![alt text](https://i.imgur.com/4Jm34I0.jpg "Agradecimentos")
+![alt text](https://i.imgur.com/qts9PrP.jpg "CSN Recicla Apresentação")
+![alt text](https://i.imgur.com/YGdJX5g.jpg "Sobre o problema")
+![alt text](https://i.imgur.com/JUMh3Zz.jpg "Solução para a CSN")
+![alt text](https://i.imgur.com/xvebJ32.jpg "Solução para os pontos de coleta")
+![alt text](https://i.imgur.com/LHXgODm.jpg "Solução para o Usuário")
+![alt text](https://i.imgur.com/x6hB4qv.jpg "Modelo de Negócio")
+![alt text](https://i.imgur.com/2Yf66jI.jpg "Validação")
+![alt text](https://i.imgur.com/VMIvFc6.jpg "Diferencial")
+![alt text](https://i.imgur.com/MpevOEf.jpg "Escalabilidade")
+![alt text](https://i.imgur.com/hpyTdsA.jpg "Agradecimentos")
