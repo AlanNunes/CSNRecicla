@@ -21,6 +21,7 @@
             <div class="form-group">
                 <label asp-for="Senha"></label>
                 <input asp-for="Senha" type="password" class="form-control" id="password" placeholder="Senha" required>
+                <span class="small">A senha deve conter letras, números e ao menos 1 caracter especial</span>
                 <span class="text-danger" asp-validation-for="Senha"></span>
             </div>
             <div class="text-center">

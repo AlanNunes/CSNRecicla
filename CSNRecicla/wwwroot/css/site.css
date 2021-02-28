@@ -136,6 +136,10 @@ footer {
     text-align: center;
 }
 
+.btn-secondary:hover {
+    background-color: #4DB748!important;
+}
+
 /* SEGUNDA PARTE */
 
 .presentation {
@@ -152,6 +156,10 @@ footer {
     background-color: #0F6534;
     border: none;
 }
+
+    .btn-beneficios:hover {
+        background-color: #4DB748;
+    }
 
 /* TERCEIRA PARTE*/
 
